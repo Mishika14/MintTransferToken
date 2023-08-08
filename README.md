@@ -19,7 +19,10 @@ _________________
    b) Address from :- The sender's account address.
    
    c) Address To :- Reciever's account address.
-   
-   
+
+### How to Deploy the Contract
+1) Deploy your hardhat network
+2) connect to your hardhat network using remix
+3) it will show all the accounts and then you can interact with contract.
 
    
